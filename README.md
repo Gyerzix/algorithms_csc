@@ -1,1 +1,1 @@
-# algorithms_csc
+# algorithms - computer science center
