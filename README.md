@@ -1,1 +1,1 @@
-# algorithms - computer science center
+# Решение задач с курса из Stepik - Алгоритмы: теория и практика. Методы.
